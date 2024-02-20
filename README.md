@@ -1,4 +1,4 @@
- Project Name
-SIMPLE SHELL PROJECT
+#Project Name
+SIMPLE SHELL
 ## Reda Arraji : 
 - Github:Redavio9
